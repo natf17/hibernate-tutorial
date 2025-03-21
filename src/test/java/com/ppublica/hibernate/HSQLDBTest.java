@@ -61,8 +61,7 @@ public class HSQLDBTest {
             System.err.println("ERROR: SQL Exception while connecting to database.");
         }
 
-
-    
+        
     }
 
     @AfterAll
